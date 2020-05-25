@@ -1,0 +1,17 @@
+.body {
+	background-image: url(https://www.euseca.com/wp-content/uploads/2018/10/esa_jungle_survivor_course.jpg);
+}
+.text {
+	color: white;
+	font-size: 2em;
+}
+section {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 4em;
+}
